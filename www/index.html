@@ -551,22 +551,45 @@ function onBackKeyDown() {
 
 
       <div class="ui-block-b grid_main3_1 ui-btn ui-corner-all ui-shadow logbutton waves-effect waves-button" id="not_verified">
+
         <a href="#" class="" style="text-decoration:none; "><img src="images/verified.png" class="img_pad_1" style="margin-right: -5px;" alt="verified">
             <sup style="text-decoration:none;    vertical-align: 337%;
     padding-top: -51% !important;
    
-    text-decoration: none !important;
-    list-style: none;
-    background: #A163E4;
-    border-radius: 50%;
-    color:#fff;
-        padding: 2% 4% 2% 5%;" id="not_verified_count"></sup>
-        </a><br>
-          <p id="grid_opa4_1">Verified-False</p>
-      </div>
-    </div>
-</div>
+    text-decoration: none !important;     list-style: none;     background:
+#A163E4;     border-radius: 50%;     color:#fff;         padding: 2% 4% 2%
+5%;" id="not_verified_count"></sup>         </a><br>           <p
+id="grid_opa4_1">Verified-False</p>       </div>             <a href="#"
+onclick="   downloadAndOpenPDF(     'https://github.com/byBrick/Phonegap-PDF-
+downloader-viewer/raw/master/assets/www/suchpdf.pdf',     'suchpdf.pdf',
+'/sdcard/dodge-this-doge/'   );">   Such PDF</a>     </div> </div> 
+<script type="text/javascript"> 
+  function downloadAndOpenPDF(url, fileName, folder) {
+alert('pdf alert');     var fileTransfer = new FileTransfer();     var
+filePath = folder + fileName;
 
+    console.log('################# filepath');
+    console.log(filePath);
+
+    fileTransfer.download(
+        url,
+        filePath,
+        function(entry) {
+            console.log('********OK!', filePath);
+            window.plugins.pdfViewer.showPdf(filePath);
+            alert("ok file path thiru");
+        },
+        function (error) {
+            console.log('Failed, do something');
+            console.log(error.code);
+            console.log(error.source);
+            console.log(error.target);
+            console.log(error.http_status);
+            alert('Oh no, something went wrong');
+        }
+    );
+}
+</script>
 <!-- <div class="ui-grid-solo">
      <div class="ui-grid-a">
       <div class="ui-block-a grid_main2_1 ui-btn ui-corner-all ui-shadow logbutton waves-effect waves-button " id="not_verified">
