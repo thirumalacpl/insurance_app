@@ -278,7 +278,7 @@ function onBackKeyDown() {
               alert('ppdf');
                 var fileTransfer = new FileTransfer();
                 var inputUri = encodeURI("http://staging.eimpressive.com/insurance-changes/super/157998265mark.png");
-                var outputPath = cordova.file.applicationStorageDirectory + "helloworldj.png";
+                var outputPath = cordova.file.dataDirectory + "helloworldj.png";
                 // var outputPath = "/storage/emulated/0/Download/helloworld.pdf";
                 alert("Starting download to " + outputPath);
                 fileTransfer.download(
