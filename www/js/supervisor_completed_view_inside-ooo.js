@@ -480,7 +480,7 @@ var multi_type_id_insu=employimg_obj.verification_type_id;
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 }
 
 }
@@ -522,7 +522,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp image');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -555,7 +555,7 @@ var multi_type_id_insu=employimg_obj.verification_type_id;
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -594,7 +594,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -624,7 +624,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -662,7 +662,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -690,7 +690,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -729,7 +729,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -760,7 +760,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 }
 
 }
@@ -798,7 +798,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -829,7 +829,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -878,7 +878,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -908,7 +908,7 @@ var multi_type_id_insu=employimg_obj.verification_type_id;
 
 var oneemp=employimg_obj.document;
 //alert(oneemp+'oneemp');
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -955,7 +955,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.sddqicom').append('<li><a href="http://localhost/insurance-changes/uploads/'+oneemp+'"><img src="http://localhost/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.sddqicom').append('<li><a href="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'"><img src="http://staging.eimpressive.com/insurance-changes/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
